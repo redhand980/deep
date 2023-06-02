@@ -673,7 +673,7 @@ textarea.form__input {
     line-height: 1.37;
 }
 
-@media (max-width: 991.98px) {
+/*@media (max-width: 1500px) {
     .contacts__body {
         flex: 0 0 auto;
         padding: 0px 0px 40px 0px;
@@ -689,7 +689,7 @@ textarea.form__input {
     .contacts__info::before {
         left: -85px;
     }
-}
+}*/
 @media (max-width: 1200px) {
     .contacts__header {
         margin: 0px 0px 20px 0px;
